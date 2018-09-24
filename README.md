@@ -2,8 +2,6 @@
 (Next Ascent) Hill climbing Algorithm for Mozilla Firefox clustering
 
 
-Genetic Algorithm for Mozilla Firefox clustering
-
 create D:\mozilla folder
 
 create D:\mozilla\accessible
